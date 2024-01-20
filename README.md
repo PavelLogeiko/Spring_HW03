@@ -66,28 +66,26 @@ _____ Конец _____
 
 Список задач
 
-![1]()
+![1](https://github.com/PavelLogeiko/Spring_HW03/blob/main/images/1.png)
 
 Добавление пользователей
-![2]()
-![3]()
-![4]()
+![2](https://github.com/PavelLogeiko/Spring_HW03/blob/main/images/2.png)
+
+![3](https://github.com/PavelLogeiko/Spring_HW03/blob/main/images/3.png)
+
+![4](https://github.com/PavelLogeiko/Spring_HW03/blob/main/images/4.png)
 
 Получение списка пользователей на сервере
-![5]()
+![5](https://github.com/PavelLogeiko/Spring_HW03/blob/main/images/5.png)
 
 Проверка сортировки
-![5]()
+![6](https://github.com/PavelLogeiko/Spring_HW03/blob/main/images/6.png)
 
 Проверка фильтрации
-![6]()
+![7](https://github.com/PavelLogeiko/Spring_HW03/blob/main/images/7.png)
 
 Проверка среднего арифметического
-![7]()
-
-Получение списка задач
-![8]()
-
+![8](https://github.com/PavelLogeiko/Spring_HW03/blob/main/images/8.png)
 
 
 
