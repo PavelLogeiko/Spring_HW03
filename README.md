@@ -79,7 +79,7 @@ _____ Конец _____
 ![5](https://github.com/PavelLogeiko/Spring_HW03/blob/main/images/5.png)
 
 Проверка сортировки
-![6](https://github.com/PavelLogeiko/Spring_HW03/blob/main/images/6.png))
+![6](https://github.com/PavelLogeiko/Spring_HW03/blob/main/images/6.png)
 
 Проверка фильтрации
 ![7](https://github.com/PavelLogeiko/Spring_HW03/blob/main/images/7.png)
