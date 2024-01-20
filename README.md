@@ -59,7 +59,7 @@ _____ Конец _____
 - создается пользователь из параметров метода
 - созданный пользователь добавляется в репозиторий
 - через notificationService выводится сообщение в консоль
-3) В TaskController добавить обработчики filterUsersByAge()(Подсказка @GetMapping("/filter/{age}")) и calculateAverageAge (Подсказка @GetMapping("/calc"))
+3) В TaskController добавить обработчики filterUsersByAge() и calculateAverageAge
 4) В методе filterUsersByAge параметр age получать через аннотацию @PathVariable
 
 ### Скрины работы приложения:
