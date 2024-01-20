@@ -35,7 +35,7 @@ public class TaskController {
         return service.sortUsersByAge(service.getRepository().getUsers());
     }
     /**
-     * Метод возвращает отфильтрованный список пользоваталей по возрасту (старше заданного значения)
+     * Возвращает список пользователей по возрасту (старше указанного значения)
      */
     @GetMapping("/filter/{age}")
     public List<User> filterUsersByAge(@PathVariable int age) {
@@ -43,7 +43,7 @@ public class TaskController {
     }
 
     /**
-     * Метод возвращает среднее арифметическое возрастов пользователей
+     * Возвращает ср. арифметическое возрастов пользователей
      */
     @GetMapping("/calc")
     public double calculateAverageAge() {
